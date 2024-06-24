@@ -1,0 +1,8 @@
+# Conclusiones
+
+Mediante la realización de la siguiente prueba técnica, se ha podido concluir lo siguiente:
+
+- Karate es una herramienta que permite realizar pruebas de apis de forma sencilla con un
+  dsl que facilita las pruebas y hace que sean fáciles de mantener y leer.
+- Karate se integra fácilmente con una variedad de herramientas de desarrollo y DevOps lo
+  que facilita su incorporación a flujos de trabajo existentes.
